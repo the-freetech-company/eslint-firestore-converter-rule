@@ -1,0 +1,20 @@
+
+{
+    "name": "freetech-eslint-plugin",
+    "version": "1.0.0",
+    "description": "ESLint plugin for enforcing firestore converter rules and more.",
+    "main": "plugin.js",
+    "peerDependencies": {
+      "eslint": ">=9.0.0"
+    },
+    "keywords": [
+      "eslint",
+      "eslintplugin",
+      "eslint-plugin"
+    ],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+      "eslint": "^9.0.0"
+    }
+  }
